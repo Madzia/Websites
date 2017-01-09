@@ -1,0 +1,148 @@
+#content {
+
+	margin-left: 5%;
+	margin-right: 5%;
+	overflow: hidden;
+}
+
+#top-content {
+	background: #062f4f;
+    float: top;
+	background-color: transparent;
+	overflow: hidden;
+
+
+}
+
+h1.heading1-top {
+	width: 48%;
+	overflow: hidden;
+	float: right;
+	margin-left: 5px;
+	border: 1px solid;
+	border-color: green;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: green;
+}
+
+
+
+h1.heading2-top {
+	width: 48;
+	overflow: hidden;
+	float: right;
+	margin-left: 5px;
+	border: 1px solid;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: green;
+    border-color: lightgreen;
+}
+
+#interesting-facts {
+	margin: 1% 1% 3% 0;
+	float: right;
+	display: inline-block;
+	width: 98%;
+	float: top;
+	overflow: hidden;
+	background: #282828;
+	border-color: red;
+	border: 2px solid;
+	border-radius: 10px;
+	box-shadow: 0 0 80px blue;
+}
+
+h2.top-quote-interesting-heading {
+	
+   -webkit-text-stroke-width: 1.5px;
+   -webkit-text-stroke-color: #813772;
+}
+
+div.me {
+	margin-left: 1%;
+}
+
+.pic-me {
+	float: left;
+	display: inline-block;
+	width: 12%;
+	float: top;
+	overflow: hidden;
+
+	border-color: red;
+	border: 2px solid;
+	border-radius: 10px;
+	box-shadow: 0 0 80px #813772;
+}
+
+.paragraph-magda {
+	float: left;
+	display: inline-block;
+	width: 80%;
+	float: top;
+	overflow: hidden;
+	margin-left: 2%;
+	font-size: 120%;
+}
+
+#bot-content {
+	border: 3px solid;
+
+}
+
+#quotes-funny {
+	background-color: black;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width: 48%;
+
+	float: left;
+	border: 2px solid;
+	border-radius: 10px;
+	overflow: hidden;
+
+}
+
+#subscribe {
+	background-color: black;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width: 48%;
+	float: right;
+	border: 2px solid;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 0 20px red;
+
+}
+
+h3.subscibe-h3 {
+	text-align: center;
+}
+
+#subscribe-form {
+
+}
+
+div.form-group {
+	margin: 0 15% 0 3%;
+}
+
+div.checkbox {
+	margin: 0 0 0 3%;
+}
+
+#footer {
+	background: #000;
+	overflow: hidden;
+	padding: 1% 0 1% 0;
+	box-shadow: 0 -1px 10px red;
+}
+
+.btn-submit-custom {
+	margin: 1% 0 2% 3%;
+}
+
+#heading-icons {
+	
+}

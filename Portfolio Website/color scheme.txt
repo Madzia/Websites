@@ -1,0 +1,18 @@
+#000000
+
+ - black
+
+#062f4f 
+
+- ink(dark blue)
+
+#813772 
+
+- posy(violet)
+
+#B82601
+
+ - embers(red)
+
+#282828
+ -grey
